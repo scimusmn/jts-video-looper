@@ -1,6 +1,10 @@
 ### Video Looper
 Bare bones video looper targeting the iPad.
 
+### Setup
+#### 1. Copy your video file into a /videos directory.
+#### 2. Edit index.html (line 26) to path to your video file (e.g. src="videos/yourvideo.mp4")
+
 ### Installation
 #### 1. Install KioskPro on iPad.
 
