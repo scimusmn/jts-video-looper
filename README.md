@@ -2,7 +2,7 @@
 Bare bones video looper targeting the iPad.
 
 ### Setup
-1. Create a /videos directory, and place your video file inside it.
+1. Create a **videos/** directory, and place your video file inside it.
 2. Edit **index.html** (line 26) to point to your video file.
 ```html
 <source src="videos/YourVideo.mp4" type='video/mp4'>
