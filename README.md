@@ -1,5 +1,5 @@
 ### Video Looper
-Bare bones video looper targeting the iPad.
+HTML5 video looper for the iPad.
 
 ### Setup
 1. Create a **videos/** directory, and place your video file inside it.
